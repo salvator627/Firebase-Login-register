@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575828325602",
+    "project_id": "fir-b0be8",
+    "storage_bucket": "fir-b0be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575828325602:android:0b3e1811cf688ad1c29abb",
+        "android_client_info": {
+          "package_name": "com.example.pornhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575828325602-9hca937n5otisu6l4p6rso07shp1i0vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYObsllzbmbRoWp0ysFAA9veudpOA_94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575828325602-9hca937n5otisu6l4p6rso07shp1i0vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
